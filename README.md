@@ -2,7 +2,7 @@
 
 **[▶ Launch the interactive Streamlit demo](https://derivatives-commodities-dashboard-w2nvxom4ud25bihfmm2hww.streamlit.app)** — try the dashboard in your browser, no Python installation needed.
 
-**Explore:** [Python source](src/) · [Streamlit app code](app.py) · [Unit tests](tests/) · [Chart preview](assets/dashboard-preview.png) · [Run instructions](#run)
+**Explore:** [Python source](src/) · [Streamlit app code](app.py) · [Unit tests](tests/) · [Chart preview](assets/dashboard-preview.png) · [Run instructions](#quick-start)
 
 *The default example uses synthetic inputs; this is educational research, not live trading or an investment recommendation.*
 
