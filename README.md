@@ -1,5 +1,12 @@
 # Derivatives & Commodities Dashboard
 
+**[▶ Launch the interactive Streamlit demo](https://derivatives-commodities-dashboard-w2nvxom4ud25bihfmm2hww.streamlit.app)** — try the dashboard in your browser, no Python installation needed.
+
+**Explore:** [Python source](src/) · [Streamlit app code](app.py) · [Unit tests](tests/) · [Chart preview](assets/dashboard-preview.png) · [Run instructions](#run)
+
+*The default example uses synthetic inputs; this is educational research, not live trading or an investment recommendation.*
+
+
 **Options pricing, Monte Carlo simulation and commodities forward-curve analytics** in Python.
 
 ![Dashboard preview](assets/dashboard-preview.png)
